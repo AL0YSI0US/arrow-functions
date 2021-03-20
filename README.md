@@ -1,5 +1,3 @@
-[<== Home](README.md) 🏠
-
 # arrow-functions ![cs](https://img.shields.io/github/license/AL0YSI0US/arrow-functions) ![open-pr](https://img.shields.io/github/issues-pr-raw/AL0YSI0US/arrow-functions) ![closed-pr](https://img.shields.io/github/issues-pr-closed/AL0YSI0US/arrow-functions)
 
 
@@ -26,6 +24,5 @@ This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.c
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
-[<== Home](README.md) 🏠
 
 ---
